@@ -1,0 +1,15 @@
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\bin\Debug\net8.0\ExamenBackend.Application.deps.json
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\bin\Debug\net8.0\ExamenBackend.Application.dll
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\bin\Debug\net8.0\ExamenBackend.Application.pdb
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\bin\Debug\net8.0\ExamenBackend.Domain.dll
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\bin\Debug\net8.0\ExamenBackend.Domain.pdb
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.csproj.AssemblyReference.cache
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.AssemblyInfoInputs.cache
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.AssemblyInfo.cs
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.csproj.CoreCompileInputs.cache
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBa.CDC3D3D1.Up2Date
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.dll
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\refint\ExamenBackend.Application.dll
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ExamenBackend.Application.pdb
+D:\Repos\ExamenBackend\ExamenBackend.API\ExamenBackend.Application\obj\Debug\net8.0\ref\ExamenBackend.Application.dll
